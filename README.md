@@ -6,7 +6,9 @@ What I know and how I work:
 - 🌱 I’m currently learning Machine Learning for Music an Audio
 - 👯 I’m looking to collaborate on audio projects
 - 💬 Ask me about music and audio processing
+<p align="center">
  
 ![Filipe Borato GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeborato&show_icons=true&theme=radical&count_private=true)
 
 <img src = "https://www.electronicbeats.net/app/uploads/2017/03/eurorackcolors.jpg" width="500" >
+</p>

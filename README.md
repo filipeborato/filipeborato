@@ -24,10 +24,16 @@ What I know and how I work:
     
   
  
-</h3>  
-<h1 align="center">
+</h3>
+
+<h2 align="center"> ⤵️ &nbsp;Stats </h2>
+
+<h2 align="center"> 
  
 ![Filipe Borato GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeborato&show_icons=true&theme=radical&count_private=true)
 
+<p1 align="center"> 🎹 &nbsp;Music </p1>
+ 
 <img src = "https://www.electronicbeats.net/app/uploads/2017/03/eurorackcolors.jpg" width="500" >
-</h1>
+ 
+</h2>

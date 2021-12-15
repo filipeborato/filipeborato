@@ -1,6 +1,6 @@
 <h3 align="center">
  
-### I'm Filipe Barato and I'm passionate about music and programming 👋
+### I'm Filipe Borato and I'm passionate about music and programming 👋
  
 </h3>
  

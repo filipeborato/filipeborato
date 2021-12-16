@@ -6,10 +6,10 @@
  
 What I know and how I work:
 
-- 🔭 I’m currently working on PHP, python and Golang as a Back-End
-- 🌱 I’m currently learning Machine Learning for Music an Audio
-- 👯 I’m looking to collaborate on audio projects
-- 💬 Ask me about music and audio processing
+- 🔭 I’m currently working on PHP, python and Golang as a Back-End;
+- 🌱 I’m currently learning Machine Learning for Music an Audio;
+- 👯 I’m looking to collaborate on audio projects;
+- 💬 Ask me about music and audio processing;
 
 <h2 align="center"> :rocket: &nbsp;My Skills </h2>
 <h3 align="center">

@@ -6,7 +6,7 @@
  
 What I know and how I work:
 
-- 🔭 I’m currently working on PHP, Python and Golang as a Back-End;
+- 🔭 I’m currently working on Golang, Python and PHP as a Back-End;
 - 🌱 I’m currently learning Machine Learning for Music an Audio;
 - 👯 I’m looking to collaborate on audio projects;
 - 💬 Ask me about music and audio processing;

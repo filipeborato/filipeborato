@@ -20,20 +20,4 @@ What I know and how I work:
  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-    
-  
- 
-</h3>
-
-<h2 align="center"> ⤵️ &nbsp;Stats </h2>
-
-<h2 align="center"> 
- 
-![Filipe Borato GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeborato&show_icons=true&theme=radical&count_private=true)
-
-<p1 align="center"> 🎹 &nbsp;Music </p1>
- 
-<img src = "https://www.electronicbeats.net/app/uploads/2017/03/eurorackcolors.jpg" width="500" >
- 
-</h2>
+ ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
